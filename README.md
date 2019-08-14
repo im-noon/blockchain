@@ -1,6 +1,6 @@
 # Blockckain
 Blockchain intuition and practical training and repeated stuff.
 
-[Solidity Programming](../00-Solidity Programming)
+[Solidity Programming](https://github.com/knopthakorn/Blockckain/tree/master/00-Solidity%20Programming)
 
-[Blockchain A-Z](../01-Blockchain A-Z)
+[Blockchain A-Z](https://github.com/knopthakorn/Blockckain/tree/master/01-Blockchain%20A-Z)
