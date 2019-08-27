@@ -36,7 +36,7 @@ contract Bank is Regulator {
     }
 }
 
-contract MyContract is Bank(10) {
+contract MyContract is Bank(0) {
     string private name;
     uint private age;
 
