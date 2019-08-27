@@ -19,3 +19,6 @@
 - The ICO has an admin that specifies when the ICO starts and ends.
 - The ICO ends when the Hardcap or the end time is reached(what come first).
 - The CRPT token <span style="color: red">will be tradable only after</span> a time set by the admin.
+- **The admin could in case of emergency half the ICO and also change the deposit address.**
+- The ICO can be in one of thefollowing <span style="color: red">states:beforeStart, Running, afterEnd, halted</span>.
+- After an investment in the ICO, the <span style="color: red">invest</span> event will be emitted.
