@@ -1,5 +1,5 @@
 # Blockckain
-Blockchain intuition and practical training and repeated stuff.
+Blockchain intuition, practical learning repeated stuff.
 
 [Solidity Programming](https://github.com/knopthakorn/Blockckain/tree/master/00-Solidity%20Programming)
 
